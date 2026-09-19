@@ -606,8 +606,8 @@
                     &:nth-of-type(1){  
                         width: 300px;
                         >img{
-                            width: 140px;
-                            height: 30px;
+                            width: 120px;
+                            height: 40px;
                         }
                         >p{
                             color: var(--footer-text);
@@ -1822,8 +1822,8 @@
                     &:nth-of-type(1){  
                         width: 300px;
                         >img{
-                            width: 170px;
-                            height: 30px;
+                            width: 120px;
+                            height: 40px;
                         }
                         >p{
                             color: var(--footer-text);
@@ -3021,8 +3021,8 @@
                     &:nth-of-type(1){  
                         width: 300px;
                         >img{
-                            width: 170px;
-                            height: 30px;
+                            width: 120px;
+                            height: 40px;
                         }
                         >p{
                             color: var(--footer-text);
