@@ -3863,9 +3863,9 @@
         }
     }
 }
+
+
 /* ____End_Of_About_Photo____ */
-
-
 #Our_Core_Values{
     width: 100%;
     min-height: 100vh;
@@ -3934,8 +3934,9 @@
         }
     }
 }
-/* ____End_Of_Our_Core_Values____ */
 
+
+/* ____End_Of_Our_Core_Values____ */
 
 #Our_Cooks{
     width: 100%;
@@ -4011,9 +4012,9 @@
         }
     }
 }
+
+
 /* ____End_Of_Our_Cooks____ */
-
-
 #Welcome_Page{
     width: 100%;
     min-height: 50vh;
@@ -4248,8 +4249,9 @@
         }
     }
 }
-/* ____End_Of_Quick_Links____ */
 
+
+/* ____End_Of_Quick_Links____ */
 /*  RESPONSIVE - ABOUT PAGE ONLY */
 /*TABLET*/
 @media (max-width: 992px){
@@ -5019,6 +5021,7 @@
         }
     }
 }
+
 
 
 
